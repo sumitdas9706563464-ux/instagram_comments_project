@@ -90,7 +90,7 @@ This project highlights how data-driven insights can help influencers, brands, a
 🧑‍💻 Author
 
 Your Name
-📧 your.email@example.com
+📧 raj roy - ajroy887661@gmail.com
 
 🌐 LinkedIn Profile
 
